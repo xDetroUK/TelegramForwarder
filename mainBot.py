@@ -35,10 +35,10 @@ MAPPINGS_FILE = "bot_config/message_mappings.json"
 # =============================================================================
 #         DESTINATION GROUP CHAT IDS (AS IN YOUR PREVIOUS CODE)
 # =============================================================================
-destination_group_chat_id_1 = -1002499818049  # CRYPTO LION VIP
-destination_group_chat_id_2 = -1002472401201  # CRYPTO LION
-destination_group_chat_id_3 = -1002332050053  # CRYPTO LION 10 X
-test_destination_group_chat_id = -1002325707983  # Test destination group
+destination_group_chat_id_1 = 
+destination_group_chat_id_2 = 
+destination_group_chat_id_3 = 
+test_destination_group_chat_id = 
 
 # =============================================================================
 #                     LOAD SOURCE GROUPS & OFFENSIVE WORDS
